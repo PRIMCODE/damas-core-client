@@ -1,0 +1,26 @@
+{
+  "name": "damas-core-client",
+  "version": "1.0.6",
+  "description": "damas-core client api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primcode/damas-core-client"
+  },
+  "keywords": [
+    "damas",
+    "client",
+    "api",
+    "crud",
+    "json",
+    "async"
+  ],
+  "author": "Remy Lalanne <remy@primcode.com> (http://primcode.com)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
